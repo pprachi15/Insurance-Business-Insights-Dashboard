@@ -1,7 +1,7 @@
 # 📊 Insurance Business Insights Dashboard
 
 An interactive **Insurance Business Insights Dashboard** built in Tableau to simulate a real-world property & casualty (P&C) insurance portfolio.  
-The dashboard provides executives with a comprehensive view of **profitability, claims trends, customer behavior, and geographic risk** — enabling data-driven decisions in underwriting, claims management, and operations.
+The dashboard provides executives with a comprehensive view of **profitability, claims trends, customer behavior, and geographic risk** enabling data-driven decisions in underwriting, claims management, and operations.
 
 <img width="1499" height="902" alt="image" src="https://github.com/user-attachments/assets/0b66dfe8-012d-4b77-ae80-e8bc4218f704" />
 
